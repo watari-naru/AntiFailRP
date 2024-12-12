@@ -1,6 +1,9 @@
 # :warning: Information
 Script for preventing some FailRP
 
+# :Reasons for forking
+Speed ​​limits can now be changed for each vehicle category
+
 # :hammer_and_wrench: Features
 - Speed limit for all cars
 - Emergency Class can have a higher speed limit
