@@ -22,6 +22,9 @@ Speed ​​limits can now be changed for each vehicle category
 Open an issue or join my discord server for support
 https://discord.gg/X3Mb74Phnq
 
+※This is a forked script. If you have any problems, please use the original script to check if it works, and then contact us. Asking about the changes will only be a nuisance.
+[original Script Github](https://github.com/Swqppingg/AntiFailRP)
+
 ---------------------------------------------------
 
 If you have any issues or suggestions please put them below.
