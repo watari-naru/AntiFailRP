@@ -1,7 +1,7 @@
 # :warning: Information
 Script for preventing some FailRP
 
-# ⚠️: Reasons for forking
+# ⚠️ Reasons for forking
 Speed ​​limits can now be changed for each vehicle category
 
 # :hammer_and_wrench: Features
